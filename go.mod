@@ -1,3 +1,3 @@
-module github.com/crisostomi/wowchemy-widget-aboutV2
+module github.com/crisostomi/gladia-wowchemy-blocks
 
 go 1.19
