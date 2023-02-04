@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/crisostomi/gladia-about-us
 
 go 1.19
